@@ -58,7 +58,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📬 Contact
 For any queries or suggestions, feel free to contact me at:
 - 📧 Email: admin@codebuilder.in
-- 🐦 LinkedIn: [](https://www.linkedin.com/in/arvind-verma-381290292/)
+- 🐦 LinkedIn: (https://www.linkedin.com/in/arvind-verma-381290292/)
 
 Happy Coding! 🚀
 
