@@ -24,7 +24,7 @@ Follow these steps to set up and run the project on your local device.
 ### Installation
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/arvindverma63/QR-Scanner-Android.git
+   git clone https://github.com/arvindverma63/QRScannerApp.git
    ```
 2. **Open in Android Studio**
    - Launch **Android Studio** and open the cloned project.
